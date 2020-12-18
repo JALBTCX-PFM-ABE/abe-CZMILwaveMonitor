@@ -1,0 +1,14 @@
+ <!DOCTYPE RCC><RCC version="1.0">
+ <qresource>
+        <file>icons/contextHelp.png</file>
+        <file>icons/mode_dot.png</file>
+        <file>icons/wave_monitor.png</file>
+        <file>icons/prefs.png</file>
+        <file>icons/zoom_cursor.png</file>
+        <file>icons/mode_line.png</file>
+        <file>icons/quit.png</file>
+        <file>icons/horArrow.png</file>
+        <file>icons/verArrow.png</file>
+        <file>icons/ColumnChart.png</file>
+ </qresource>
+ </RCC>
